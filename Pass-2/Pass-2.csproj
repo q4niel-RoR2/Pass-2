@@ -7,8 +7,8 @@
     <ProjectGuid>{8649182F-11E0-4F7F-BDF0-EB295965F5FD}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Pass_1</RootNamespace>
-    <AssemblyName>Pass-1</AssemblyName>
+    <RootNamespace>Pass_2</RootNamespace>
+    <AssemblyName>Pass-2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
