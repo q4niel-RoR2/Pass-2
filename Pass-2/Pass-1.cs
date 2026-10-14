@@ -1,6 +1,6 @@
 ﻿using BepInEx;
 
-namespace Pass_1 {
+namespace Pass_2 {
     [BepInPlugin("q4niel.pass1", "Pass 1", "0.0.0")]
     public class Pass1 : BaseUnityPlugin {
         public void Awake()
