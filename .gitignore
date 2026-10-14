@@ -3,9 +3,9 @@
 !.gitignore
 !readme.md
 
-!Pass-1/
-!Pass-1/Properties/
-!Pass-1/Properties/**/*
-!Pass-1/Pass-1.cs
-!Pass-1/Pass-1.csproj
-!Pass-1/Pass-1.slnx
+!Pass-2/
+!Pass-2/Properties/
+!Pass-2/Properties/**/*
+!Pass-2/Pass-1.cs
+!Pass-2/Pass-1.csproj
+!Pass-2/Pass-1.slnx
